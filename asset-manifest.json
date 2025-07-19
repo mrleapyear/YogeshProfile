@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/YogeshProfile/static/css/main.19f54595.css",
+    "main.js": "/YogeshProfile/static/js/main.a0f591a3.js",
+    "static/css/64.bba8fa55.chunk.css": "/YogeshProfile/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/YogeshProfile/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/YogeshProfile/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/YogeshProfile/static/js/769.bda0d7b7.chunk.js",
+    "static/media/beeHiveLogo.png": "/YogeshProfile/static/media/beeHiveLogo.ac365c142a80447e583a.png",
+    "static/media/speakerLogo.png": "/YogeshProfile/static/media/speakerLogo.25634024cc48af0d40ff.png",
+    "static/media/deafDumbCommLogo.png": "/YogeshProfile/static/media/deafDumbCommLogo.b1a5c12f642f492b3323.png",
+    "static/media/snsLogo.png": "/YogeshProfile/static/media/snsLogo.133299bd65329748ea87.png",
+    "static/media/Montserrat-Regular.ttf": "/YogeshProfile/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/nccLogo.png": "/YogeshProfile/static/media/nccLogo.302ee223490c367ecc32.png",
+    "static/media/Agustina.woff": "/YogeshProfile/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/counselorLogo.png": "/YogeshProfile/static/media/counselorLogo.91db0cdb48c0c19c5ad5.png",
+    "static/media/manOnTable.svg": "/YogeshProfile/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/embeddedLogo.png": "/YogeshProfile/static/media/embeddedLogo.243b00ab760660688003.png",
+    "static/media/contactMailDark.svg": "/YogeshProfile/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/YogeshProfile/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/yadhronicsLogo.png": "/YogeshProfile/static/media/yadhronicsLogo.69503ed35021c7c2e841.png",
+    "static/media/wiproLogo.png": "/YogeshProfile/static/media/wiproLogo.39fd9156bce614bbadc6.png",
+    "static/media/skill.svg": "/YogeshProfile/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/YogeshProfile/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/YogeshProfile/index.html",
+    "static/media/talksCardBack.svg": "/YogeshProfile/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.19f54595.css.map": "/YogeshProfile/static/css/main.19f54595.css.map",
+    "main.a0f591a3.js.map": "/YogeshProfile/static/js/main.a0f591a3.js.map",
+    "64.bba8fa55.chunk.css.map": "/YogeshProfile/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/YogeshProfile/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/YogeshProfile/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/YogeshProfile/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19f54595.css",
+    "static/js/main.a0f591a3.js"
+  ]
+}
