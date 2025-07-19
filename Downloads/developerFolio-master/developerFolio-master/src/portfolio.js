@@ -51,8 +51,8 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY DEVELOPER + EDUCATOR WHO BUILDS TECH & TRAINS TALENT",
  skills: [
-  emoji("⚡ Develop real-time IoT and Embedded Systems Projects using Arduino, ESP32, 8051, and PIC16F877A"),
-  emoji("⚡ Design and automate test frameworks using Selenium, Java, Cucumber, and JUnit"),
+  emoji("⚡ Develop real-time IoT and Embedded Systems Projects using Arduino, ESP32, 8051 and PIC16F877A"),
+  emoji("⚡ Design and automate test frameworks using Selenium, Java, Cucumber and JUnit"),
   emoji("⚡ Conduct hands-on workshops and training for school & college students on Arduino, IoT & Automation"),
   emoji("⚡ Integration of sensors, GSM, GPS, Cloud (AWS/Firebase) for smart automation"),
   emoji("⚡ Build end-to-end Automation Projects from hardware to deployment & testing")
@@ -129,9 +129,9 @@ const educationInfo = {
       logo: require("./assets/images/snsLogo.png"), // Replace with your actual logo file
       subHeader: "Bachelor of Engineering in Electronics and Communication",
       duration: "August 2017 - April 2021",
-      desc: "Focused on Embedded Systems, Microcontrollers, and IoT. Completed multiple real-time projects during academics.",
+      desc: "Focused on Embedded Systems, Microcontrollers and IoT. Completed multiple real-time projects during academics.",
       descBullets: [
-        "Built mini and major projects using 8051, Arduino, and PIC microcontrollers",
+        "Built mini and major projects using 8051, Arduino and PIC microcontrollers",
         "Actively participated in electronics workshops and project exhibitions"
       ]
     }
@@ -152,7 +152,7 @@ const techStack = {
       progressPercentage: "95%"
     },
     {
-      Stack: "Automation Testing (Selenium Java)",
+      Stack: "Automation Testing (Selenium,Java)",
       progressPercentage: "95%"
     },
     {
@@ -175,8 +175,8 @@ const workExperiences = {
       date: "April 2021 – December 2023",
       desc: "Worked on Embedded System design and development using 8051 microcontroller, focusing on real-time automation applications.",
       descBullets: [
-        "Developed and tested embedded solutions using C for 8051 architecture",
-        "Collaborated with hardware and testing teams for integrated system validation"
+        "Developed and tested embedded solutions using C for 8051 architecture.",
+        "Collaborated with hardware and software testing teams for integrated system validation."
       ]
     },
     {
@@ -197,7 +197,7 @@ const workExperiences = {
   date: "January 2025 – Present",
   descBullets: [
     "Founded Yadhronics to bridge industry and education through practical electronics and automation training",
-    "Designed and delivered workshops on Embedded Systems, IoT, and Automation Testing",
+    "Designed and delivered workshops on Embedded Systems, IoT and Automation Testing",
     "Led a team to develop hands-on tech solutions and upskill students across schools and colleges"
   ]
 }
@@ -222,7 +222,7 @@ const bigProjects = {
       image: require("./assets/images/accidentAlertLogo.png"), // Add a suitable logo image
       projectName: "Accident Alert System",
       projectDesc:
-        "Built using ESP32, GSM, GPS (satellite), and Accelerometer to detect bike accidents and send emergency alerts with location.",
+        "Built using ESP32, GSM, GPS (satellite) and Accelerometer to detect bike accidents and send emergency alerts with location.",
       footerLink: [
         {
           name: "Project Demo",
@@ -246,7 +246,7 @@ const bigProjects = {
       image: require("./assets/images/beeHiveLogo.png"), // Add a suitable logo image
       projectName: "Smart Beehive Monitoring System",
       projectDesc:
-        "Developed an IoT-based smart beehive system for temperature, humidity, and activity monitoring with real-time alerts.",
+        "Developed an IoT-based smart beehive system for temperature, humidity and activity monitoring with real-time alerts.",
       footerLink: [
         {
           name: "View Details",
@@ -276,7 +276,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certificate",
-          url: "" // Add your certificate link here
+         // url: "" // Add your certificate link here
         }
       ]
     },
@@ -299,7 +299,7 @@ const achievementSection = {
     {
       title: "Motivational Speaker",
       subtitle:
-        "Delivered motivational sessions and keynotes to inspire youth in over 5+ institutions.",
+        "Delivered motivational sessions and keynotes to inspire youth in over 5+ Educational institutions.",
       image: require("./assets/images/speakerLogo.png"), // Add your own icon
       imageAlt: "Motivational Speaker Logo",
       footerLink: []
